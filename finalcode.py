@@ -88,6 +88,5 @@ Btn.place(x = 50,y = 270)
 
 
 
-
 root.mainloop()
 
